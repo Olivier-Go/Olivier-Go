@@ -50,7 +50,8 @@
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=Integration_HTML-CSS_Piroll&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390" />
 </a>
 
-***
-
-![codesandbox](https://img.shields.io/badge/CodeSandbox-blue?style=for-the-badge&logo=codesandbox)
-
+<br/>
+<br/>
+<a href="https://codesandbox.io/u/Olivier-Go">
+  <img align="right" alt="Olivier G - CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-blue?style=for-the-badge&logo=codesandbox" />
+</a>
