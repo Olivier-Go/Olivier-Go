@@ -15,24 +15,6 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/Olivier-Go/obot-sf-backend">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=obot-sf-backend&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
-</a>
-&nbsp;
-<a href="https://github.com/Olivier-Go/obot-datafeed-server">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=obot-datafeed-server&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/Olivier-Go/obot-arbitrage-server">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=obot-arbitrage-server&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
-</a>
-&nbsp;
-<a href="https://github.com/Olivier-Go/obot-algotrade-server">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=obot-algotrade-server&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
-</a>
-<br/>
-<br/>
 <a href="https://github.com/Olivier-Go/bootscore-theme">
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=bootscore-theme&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
 </a>
