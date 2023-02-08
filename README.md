@@ -15,21 +15,21 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/Olivier-Go/bootscore-theme">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=bootscore-theme&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
-</a>
-&nbsp;
 <a href="https://github.com/Olivier-Go/React-oFig-Nintendo">
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=React-oFig-Nintendo&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
 </a>
-<br/>
-<br/>
+&nbsp;
 <a href="https://github.com/Olivier-Go/oFig-API-node-server">
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=oFig-API-node-server&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
 </a>
-&nbsp;
+<br/>
+<br/>
 <a href="https://github.com/Olivier-Go/React-Redux-modele">
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=React-Redux-modele&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
+</a>
+&nbsp;
+<a href="https://github.com/Olivier-Go/bootscore-theme">
+  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=bootscore-theme&theme=react&title_color=3e9bf5&icon_color=768390&show_icons=true&border_color=444c56&text_color=768390&bg_color=22272e" />
 </a>
 <br/>
 <br/>
