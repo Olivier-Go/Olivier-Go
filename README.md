@@ -15,7 +15,7 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/Olivier-Go/React-oFig-Nintendo">
+<a href="https://github.com/Olivier-Go/React-oFig-Nintendo" style="text-decoration: none;">
   <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olivier-Go&repo=React-oFig-Nintendo&theme=react&title_color=0969da&icon_color=9198a1&text_color=9198a1&border_color=d1d9e0b3&bg_color=00000000&show_icons=true" />
 </a>
 &emsp;
