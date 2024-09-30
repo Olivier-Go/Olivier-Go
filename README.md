@@ -1,7 +1,7 @@
 #### Stats
 
 <a href="https://github.com/Olivier-Go?tab=repositories">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olivier-Go&layout=compact&theme=react&title_color=3e9bf5&icon_color=768390&border_color=444c56&text_color=768390&bg_color=22272e" />
+  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olivier-Go&layout=compact&theme=react&title_color=3e9bf5&icon_color=768390&border_color=444c56&text_color=768390&bg_color=transparent" />
 </a>
 
 #### Pinned Repositories
